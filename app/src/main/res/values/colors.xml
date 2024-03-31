@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#000000</color>
+    <color name="black_trans">#80000000</color>
+
+    <color name="colorAccent">#2effdd</color>
+    <color name="colorPrimary">#1b1b31</color>
+    <color name="colorPrimaryDark">#1b1b31</color>
+    <color name="btn_color">#df215b</color>
+
+    <color name="lighter_gray">#90ffffff</color>
+    <color name="line">#333341</color>
+    <color name="lite_text">#aeaeae</color>
+    <color name="white">#ffffff</color>
+    <color name="white_trans_light">#50ffffff</color>
+</resources>
